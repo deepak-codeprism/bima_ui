@@ -1,0 +1,1 @@
+export default '<h2>Hello nested Route</h2>';
